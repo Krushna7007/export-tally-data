@@ -1,0 +1,346 @@
+Date,Transaction Type,Vch No,Ref No,Reference Type,Reference Date,Debtor,Reference Amount,Amount,Particulars,Vch Type,Amount Verified
+20200701,Child,166,1800047430,New Ref,,Bajaj Finserv,4244.4,NA,Bajaj Finserv,Receipt,NO
+20200701,Parent,166,NA,NA,,Bajaj Finserv,NA,0,Bajaj Finserv,Receipt,NO
+20200701,Child,167,1800044013,New Ref,,Bajaj Finserv,1495.12,NA,Bajaj Finserv,Receipt,NO
+20200701,Parent,167,NA,NA,,Bajaj Finserv,NA,0,Bajaj Finserv,Receipt,NO
+20200701,Parent,SSI20-21/PI-029,NA,NA,NA,Upper Assam Cycle Co.,NA,0,Upper Assam Cycle Co.,Receipt,NO
+20200701,Parent,SSI20-21/PI-030,NA,NA,NA,Bike & Hike Adventures,NA,0,Bike & Hike Adventures,Receipt,NO
+20200701,Child,SSI20210595,SSI20210595,New Ref,,Saaj Creatives,-194292.0,NA,Saaj Creatives,Receipt,NO
+20200701,Parent,SSI20210595,NA,NA,,Saaj Creatives,NA,0,Saaj Creatives,Receipt,NO
+20200701,Child,SSI20210596,SSI20210596,New Ref,,Gear Up,-176198.0,NA,Gear Up,Receipt,NO
+20200701,Parent,SSI20210596,NA,NA,,Gear Up,NA,0,Gear Up,Receipt,NO
+20200701,Child,SSI20210597,SSI20210597,New Ref,,Gear Up,-83972.0,NA,Gear Up,Receipt,NO
+20200701,Parent,SSI20210597,NA,NA,,Gear Up,NA,0,Gear Up,Receipt,NO
+20200701,Child,SSI20210598,SSI20210598,New Ref,,HIMALAYAN DAILY NEED,-69673.0,NA,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Parent,SSI20210598,NA,NA,,HIMALAYAN DAILY NEED,NA,0,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Child,SSI20210599,SSI20210599,New Ref,,HIMALAYAN DAILY NEED,-32175.0,NA,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Parent,SSI20210599,NA,NA,,HIMALAYAN DAILY NEED,NA,0,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Child,SSI20210600,SSI20210600,New Ref,,HIMALAYAN DAILY NEED,-11523.0,NA,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Parent,SSI20210600,NA,NA,,HIMALAYAN DAILY NEED,NA,0,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Child,396,SSI20210348,Agst Ref,,HIMALAYAN DAILY NEED,50000.0,NA,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Other,396,NA,NA,,Standard Chartered Bank,NA,-50000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,396,NA,NA,,HIMALAYAN DAILY NEED,NA,0,HIMALAYAN DAILY NEED,Receipt,NO
+20200701,Child,SSI20210601,SSI20210601,New Ref,,The Jalpai Motor & Cycle Co,-24192.0,NA,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Parent,SSI20210601,NA,NA,,The Jalpai Motor & Cycle Co,NA,0,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Child,SSI20210602,SSI20210602,New Ref,,The Jalpai Motor & Cycle Co,-67032.0,NA,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Parent,SSI20210602,NA,NA,,The Jalpai Motor & Cycle Co,NA,0,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Child,SSI20210603,SSI20210603,New Ref,,The Jalpai Motor & Cycle Co,-22972.0,NA,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Parent,SSI20210603,NA,NA,,The Jalpai Motor & Cycle Co,NA,0,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Child,SSI20210604,SSI20210604,New Ref,,The Jalpai Motor & Cycle Co,-28420.0,NA,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Parent,SSI20210604,NA,NA,,The Jalpai Motor & Cycle Co,NA,0,The Jalpai Motor & Cycle Co,Receipt,NO
+20200701,Child,SSI20210605,SSI20210605,New Ref,,NOREN CYCLES 'N' OUTDOOR SPORTS,-142531.0,NA,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,SSI20210605,NA,NA,,NOREN CYCLES 'N' OUTDOOR SPORTS,NA,0,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Child,SSI20210606,SSI20210606,New Ref,,NOREN CYCLES 'N' OUTDOOR SPORTS,-38052.0,NA,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,SSI20210606,NA,NA,,NOREN CYCLES 'N' OUTDOOR SPORTS,NA,0,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Child,SSI20210607,SSI20210607,New Ref,,NOREN CYCLES 'N' OUTDOOR SPORTS,-17916.0,NA,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,SSI20210607,NA,NA,,NOREN CYCLES 'N' OUTDOOR SPORTS,NA,0,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Child,SSI20210608,SSI20210608,New Ref,,NOREN CYCLES 'N' OUTDOOR SPORTS,-22389.0,NA,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,SSI20210608,NA,NA,,NOREN CYCLES 'N' OUTDOOR SPORTS,NA,0,NOREN CYCLES 'N' OUTDOOR SPORTS,Receipt,NO
+20200701,Child,SSI20210609,SSI20210609,New Ref,,Chandigarh Auto Care,-164649.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210609,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210610,SSI20210610,New Ref,,Chandigarh Auto Care,-121928.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210610,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210611,SSI20210611,New Ref,,Chandigarh Auto Care,-145313.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210611,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210612,SSI20210612,New Ref,,Chandigarh Auto Care,-48819.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210612,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210613,SSI20210613,New Ref,,Chandigarh Auto Care,-4717.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210613,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210614,SSI20210614,New Ref,,Chandigarh Auto Care,-57372.0,NA,Chandigarh Auto Care,Receipt,NO
+20200701,Parent,SSI20210614,NA,NA,,Chandigarh Auto Care,NA,0,Chandigarh Auto Care,Receipt,NO
+20200701,Child,SSI20210615,SSI20210615,New Ref,,Ajit Cycle Stores,-85754.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210615,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210616,SSI20210616,New Ref,,Ajit Cycle Stores,-37842.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210616,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210617,SSI20210617,New Ref,,Ajit Cycle Stores,-22596.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210617,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210618,SSI20210618,New Ref,,Ajit Cycle Stores,-58968.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210618,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210619,SSI20210619,New Ref,,Ajit Cycle Stores,-15210.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210619,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210620,SSI20210620,New Ref,,Ajit Cycle Stores,-7862.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210620,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI19202245,Agst Ref,,Ajit Cycle Stores,55.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI19202246,Agst Ref,,Ajit Cycle Stores,2572.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI19202600,Agst Ref,,Ajit Cycle Stores,941.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSICN/19-20/470,Agst Ref,,Ajit Cycle Stores,-3068.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSICN/19-20/471,Agst Ref,,Ajit Cycle Stores,-500.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI19202955,Agst Ref,,Ajit Cycle Stores,699.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI20210333,Agst Ref,,Ajit Cycle Stores,28476.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI20210334,Agst Ref,,Ajit Cycle Stores,75684.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI20210335,Agst Ref,,Ajit Cycle Stores,90811.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Child,397,SSI20210336,Agst Ref,,Ajit Cycle Stores,26309.0,NA,Ajit Cycle Stores,Receipt,NO
+20200701,Other,397,NA,NA,,Standard Chartered Bank,NA,-221979.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,397,NA,NA,,Ajit Cycle Stores,NA,0,Ajit Cycle Stores,Receipt,NO
+20200701,Child,SSI20210621,SSI20210621,New Ref,,The Bike Shop,-43384.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210621,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210201,Agst Ref,,The Bike Shop,400103.53,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210202,Agst Ref,,The Bike Shop,41440.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210203,Agst Ref,,The Bike Shop,65384.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210204,Agst Ref,,The Bike Shop,64512.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210205,Agst Ref,,The Bike Shop,85523.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210297,Agst Ref,,The Bike Shop,143360.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210298,Agst Ref,,The Bike Shop,117412.0,NA,The Bike Shop,Receipt,NO
+20200701,Child,398,SSI20210393,Agst Ref,,The Bike Shop,82265.47,NA,The Bike Shop,Receipt,NO
+20200701,Other,398,NA,NA,,Standard Chartered Bank,NA,-1000000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,398,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210622,SSI20210622,New Ref,,The Bike Shop,-286720.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210622,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210623,SSI20210623,New Ref,,The Bike Shop,-916232.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210623,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210624,SSI20210624,New Ref,,The Bike Shop,-20483.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210624,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210625,SSI20210625,New Ref,,The Bike Shop,-47152.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210625,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210626,SSI20210626,New Ref,,The Bike Shop,-145313.0,NA,The Bike Shop,Receipt,NO
+20200701,Parent,SSI20210626,NA,NA,,The Bike Shop,NA,0,The Bike Shop,Receipt,NO
+20200701,Child,SSI20210628,SSI20210628,New Ref,,Cycle Zone- North,-45360.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Parent,SSI20210628,NA,NA,,Cycle Zone- North,NA,0,Cycle Zone- North,Receipt,NO
+20200701,Child,SSI20210629,SSI20210629,New Ref,,Cycle Zone- North,-110024.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Parent,SSI20210629,NA,NA,,Cycle Zone- North,NA,0,Cycle Zone- North,Receipt,NO
+20200701,Child,SSI20210630,SSI20210630,New Ref,,Cycle Zone- North,-6421.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Parent,SSI20210630,NA,NA,,Cycle Zone- North,NA,0,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI19203052,Agst Ref,,Cycle Zone- North,43531.22,NA,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI19203053,Agst Ref,,Cycle Zone- North,30240.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI19203054,Agst Ref,,Cycle Zone- North,18564.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI19203055,Agst Ref,,Cycle Zone- North,39330.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI19203056,Agst Ref,,Cycle Zone- North,1070.0,NA,Cycle Zone- North,Receipt,NO
+20200701,Child,399,SSI20210261,Agst Ref,,Cycle Zone- North,67264.78,NA,Cycle Zone- North,Receipt,NO
+20200701,Other,399,NA,NA,,Standard Chartered Bank,NA,-200000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,399,NA,NA,,Cycle Zone- North,NA,0,Cycle Zone- North,Receipt,NO
+20200701,Child,SSI20210631,SSI20210631,New Ref,,Cycle Zone - West,-274414.0,NA,Cycle Zone - West,Receipt,NO
+20200701,Parent,SSI20210631,NA,NA,,Cycle Zone - West,NA,0,Cycle Zone - West,Receipt,NO
+20200701,Child,SSI20210632,SSI20210632,New Ref,,Cycle Zone - West,-72657.0,NA,Cycle Zone - West,Receipt,NO
+20200701,Parent,SSI20210632,NA,NA,,Cycle Zone - West,NA,0,Cycle Zone - West,Receipt,NO
+20200701,Child,SSI20210633,SSI20210633,New Ref,,Cycle Zone - West,-99671.0,NA,Cycle Zone - West,Receipt,NO
+20200701,Parent,SSI20210633,NA,NA,,Cycle Zone - West,NA,0,Cycle Zone - West,Receipt,NO
+20200701,Child,SSI20210634,SSI20210634,New Ref,,Cycle Zone - West,-32008.0,NA,Cycle Zone - West,Receipt,NO
+20200701,Parent,SSI20210634,NA,NA,,Cycle Zone - West,NA,0,Cycle Zone - West,Receipt,NO
+20200701,Child,SSI20210635,SSI20210635,New Ref,,Everest Cycles,-87181.0,NA,Everest Cycles,Receipt,NO
+20200701,Parent,SSI20210635,NA,NA,,Everest Cycles,NA,0,Everest Cycles,Receipt,NO
+20200701,Child,SSI20210636,SSI20210636,New Ref,,Nareshchandra & Co.,-114464.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Parent,SSI20210636,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,SSI20210637,SSI20210637,New Ref,,Nareshchandra & Co.,-84358.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Parent,SSI20210637,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,SSI20210638,SSI20210638,New Ref,,Nareshchandra & Co.,-106717.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Parent,SSI20210638,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,SSI20210639,SSI20210639,New Ref,,Nareshchandra & Co.,-70638.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Parent,SSI20210639,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,SSI20210640,SSI20210640,New Ref,,Nareshchandra & Co.,-36995.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Parent,SSI20210640,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,400,SSI19201521,Agst Ref,,Nareshchandra & Co.,8480.38,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Child,400,SSI19201522,Agst Ref,,Nareshchandra & Co.,1388.0,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Child,400,SSI19201635,Agst Ref,,Nareshchandra & Co.,46354.62,NA,Nareshchandra & Co.,Receipt,NO
+20200701,Other,400,NA,NA,,Standard Chartered Bank,NA,-56223.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,400,NA,NA,,Nareshchandra & Co.,NA,0,Nareshchandra & Co.,Receipt,NO
+20200701,Child,0000000945,0000000945,Agst Ref,,TRACK LINE COURIER SERVICES PVT LTD,-3781.0,NA,TRACK LINE COURIER SERVICES PVT LTD,Receipt,NO
+20200701,Other,0000000945,NA,NA,,ICICI Bank,NA,3781.00,ICICI Bank,Receipt,NO
+20200701,Other,0000000945,NA,NA,,TRACK LINE COURIER SERVICES PVT LTD,NA,0,TRACK LINE COURIER SERVICES PVT LTD,Receipt,NO
+20200701,Child,218,218,Agst Ref,,Shree Ganesh Enterpises,-21630.0,NA,Shree Ganesh Enterpises,Receipt,NO
+20200701,Other,218,NA,NA,,ICICI Bank,NA,21630.00,ICICI Bank,Receipt,NO
+20200701,Other,218,NA,NA,,Shree Ganesh Enterpises,NA,0,Shree Ganesh Enterpises,Receipt,NO
+20200701,Child,216,216,Agst Ref,,Shree Ganesh Enterpises,-9065.0,NA,Shree Ganesh Enterpises,Receipt,NO
+20200701,Other,216,NA,NA,,ICICI Bank,NA,9065.00,ICICI Bank,Receipt,NO
+20200701,Other,216,NA,NA,,Shree Ganesh Enterpises,NA,0,Shree Ganesh Enterpises,Receipt,NO
+20200701,Child,GIN0001614,GIN0001614,Agst Ref,,J.P. Enterprises - DTDC Courier,-2408.0,NA,J.P. Enterprises - DTDC Courier,Receipt,NO
+20200701,Other,GIN0001614,NA,NA,,ICICI Bank,NA,2408.00,ICICI Bank,Receipt,NO
+20200701,Other,GIN0001614,NA,NA,,J.P. Enterprises - DTDC Courier,NA,0,J.P. Enterprises - DTDC Courier,Receipt,NO
+20200701,Child,VMGF/SSI/2872,VMGF/SSI/2872,Agst Ref,,VM Guard Force PVT LTD,-24838.0,NA,VM Guard Force PVT LTD,Receipt,NO
+20200701,Other,VMGF/SSI/2872,NA,NA,,ICICI Bank,NA,24838.00,ICICI Bank,Receipt,NO
+20200701,Other,VMGF/SSI/2872,NA,NA,,VM Guard Force PVT LTD,NA,0,VM Guard Force PVT LTD,Receipt,NO
+20200701,Child,VMGF/SSI/2835,VMGF/SSI/2835,Agst Ref,,VM Guard Force PVT LTD,-24732.0,NA,VM Guard Force PVT LTD,Receipt,NO
+20200701,Other,VMGF/SSI/2835,NA,NA,,ICICI Bank,NA,24732.00,ICICI Bank,Receipt,NO
+20200701,Other,VMGF/SSI/2835,NA,NA,,VM Guard Force PVT LTD,NA,0,VM Guard Force PVT LTD,Receipt,NO
+20200701,Child,12,12,Agst Ref,,Baba Print House,-1970.0,NA,Baba Print House,Receipt,NO
+20200701,Other,12,NA,NA,,ICICI Bank,NA,1970.00,ICICI Bank,Receipt,NO
+20200701,Other,12,NA,NA,,Baba Print House,NA,0,Baba Print House,Receipt,NO
+20200701,Child,Sanresh-05.20,"Sanresh-05.20
+",Agst Ref,,Expenses Payable - Sanresh,-5890.0,NA,Expenses Payable - Sanresh,Receipt,NO
+20200701,Other,Sanresh-05.20,NA,NA,,ICICI Bank,NA,5890.00,ICICI Bank,Receipt,NO
+20200701,Other,Sanresh-05.20,NA,NA,,Expenses Payable - Sanresh,NA,0,Expenses Payable - Sanresh,Receipt,NO
+20200701,Child,US-06.20,US-06.20,Agst Ref,,Umesh Bhau Sable,-8000.0,NA,Umesh Bhau Sable,Receipt,NO
+20200701,Other,US-06.20,NA,NA,,ICICI Bank,NA,8000.00,ICICI Bank,Receipt,NO
+20200701,Other,US-06.20,NA,NA,,Umesh Bhau Sable,NA,0,Umesh Bhau Sable,Receipt,NO
+20200701,Child,1800044013,1800044013,Agst Ref,,Bajaj Finserv,-1495.12,NA,Bajaj Finserv,Receipt,NO
+20200701,Other,1800044013,NA,NA,,ICICI Bank,NA,1495.12,ICICI Bank,Receipt,NO
+20200701,Other,1800044013,NA,NA,,Bajaj Finserv,NA,0,Bajaj Finserv,Receipt,NO
+20200701,Child,1800047430,1800047430,Agst Ref,,Bajaj Finserv,-4244.4,NA,Bajaj Finserv,Receipt,NO
+20200701,Other,1800047430,NA,NA,,ICICI Bank,NA,4244.40,ICICI Bank,Receipt,NO
+20200701,Other,1800047430,NA,NA,,Bajaj Finserv,NA,0,Bajaj Finserv,Receipt,NO
+20200701,Child,SSI20210641,SSI20210642,New Ref,,Tirupati Cycles,-39200.0,NA,Tirupati Cycles,Receipt,NO
+20200701,Parent,SSI20210641,NA,NA,,Tirupati Cycles,NA,0,Tirupati Cycles,Receipt,NO
+20200701,Child,SSI20210642,SSI20210642,Agst Ref,,Tirupati Cycles,-103908.0,NA,Tirupati Cycles,Receipt,NO
+20200701,Parent,SSI20210642,NA,NA,,Tirupati Cycles,NA,0,Tirupati Cycles,Receipt,NO
+20200701,Child,SSI20210643,SSI20210643,New Ref,,Pedal Drive,-57170.0,NA,Pedal Drive,Receipt,NO
+20200701,Parent,SSI20210643,NA,NA,,Pedal Drive,NA,0,Pedal Drive,Receipt,NO
+20200701,Child,SSI20210644,SSI20210644,New Ref,,Pedal Drive,-90384.0,NA,Pedal Drive,Receipt,NO
+20200701,Parent,SSI20210644,NA,NA,,Pedal Drive,NA,0,Pedal Drive,Receipt,NO
+20200701,Child,SSI20210645,SSI20210645,New Ref,,Pedal Drive,-4732.0,NA,Pedal Drive,Receipt,NO
+20200701,Parent,SSI20210645,NA,NA,,Pedal Drive,NA,0,Pedal Drive,Receipt,NO
+20200701,Child,SSI20210646,SSI20210646,New Ref,,Pro Sports & Bikes,-329495.0,NA,Pro Sports & Bikes,Receipt,NO
+20200701,Parent,SSI20210646,NA,NA,,Pro Sports & Bikes,NA,0,Pro Sports & Bikes,Receipt,NO
+20200701,Child,SSI20210647,SSI20210647,New Ref,,Pro Sports & Bikes,-475776.0,NA,Pro Sports & Bikes,Receipt,NO
+20200701,Parent,SSI20210647,NA,NA,,Pro Sports & Bikes,NA,0,Pro Sports & Bikes,Receipt,NO
+20200701,Child,SSI20210648,SSI20210648,New Ref,,Pro Sports & Bikes,-109766.0,NA,Pro Sports & Bikes,Receipt,NO
+20200701,Parent,SSI20210648,NA,NA,,Pro Sports & Bikes,NA,0,Pro Sports & Bikes,Receipt,NO
+20200701,Child,SSI20210649,SSI20210649,New Ref,,Pro Sports & Bikes,-36328.0,NA,Pro Sports & Bikes,Receipt,NO
+20200701,Parent,SSI20210649,NA,NA,,Pro Sports & Bikes,NA,0,Pro Sports & Bikes,Receipt,NO
+20200701,Child,SSI20210650,SSI20210646,New Ref,,Raj Cycles & Toys,-5508.0,NA,Raj Cycles & Toys,Receipt,NO
+20200701,Parent,SSI20210650,NA,NA,,Raj Cycles & Toys,NA,0,Raj Cycles & Toys,Receipt,NO
+20200701,Child,SSI20210651,SSI20210647,New Ref,,Raj Cycles & Toys,-45192.0,NA,Raj Cycles & Toys,Receipt,NO
+20200701,Parent,SSI20210651,NA,NA,,Raj Cycles & Toys,NA,0,Raj Cycles & Toys,Receipt,NO
+20200701,Child,SSI20210652,SSI20210648,New Ref,,Raj Cycles & Toys,-28585.0,NA,Raj Cycles & Toys,Receipt,NO
+20200701,Parent,SSI20210652,NA,NA,,Raj Cycles & Toys,NA,0,Raj Cycles & Toys,Receipt,NO
+20200701,Child,SSI20210653,SSI20210649,New Ref,,Raj Cycles & Toys,-4732.0,NA,Raj Cycles & Toys,Receipt,NO
+20200701,Parent,SSI20210653,NA,NA,,Raj Cycles & Toys,NA,0,Raj Cycles & Toys,Receipt,NO
+20200701,Child,SSI20210654,SSI20210654,New Ref,,THE CYCLE WORX,-26679.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210654,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210655,SSI20210655,New Ref,,THE CYCLE WORX,-26679.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210655,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210656,SSI20210656,New Ref,,THE CYCLE WORX,-26679.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210656,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210657,SSI20210657,New Ref,,THE CYCLE WORX,-26679.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210657,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210658,SSI20210658,New Ref,,THE CYCLE WORX,-26679.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210658,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210659,SSI20210659,New Ref,,THE CYCLE WORX,-35319.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210659,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210660,SSI20210660,New Ref,,THE CYCLE WORX,-35319.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210660,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210661,SSI20210661,New Ref,,THE CYCLE WORX,-32301.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210661,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210662,SSI20210662,New Ref,,THE CYCLE WORX,-9601.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210662,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210663,SSI20210663,New Ref,,THE CYCLE WORX,-4609.0,NA,THE CYCLE WORX,Receipt,NO
+20200701,Parent,SSI20210663,NA,NA,,THE CYCLE WORX,NA,0,THE CYCLE WORX,Receipt,NO
+20200701,Child,SSI20210664,SSI20210657,New Ref,,Shivdeep Cycle Track,-85221.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Parent,SSI20210664,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,SSI20210665,SSI20210658,New Ref,,Shivdeep Cycle Track,-81683.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Parent,SSI20210665,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,SSI20210666,SSI20210657,Agst Ref,,Shivdeep Cycle Track,-274322.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Parent,SSI20210666,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,SSI20210667,SSI20210657,Agst Ref,,Shivdeep Cycle Track,-76104.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Parent,SSI20210667,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,SSI20210668,SSI20210660,New Ref,,Shivdeep Cycle Track,-8387.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Parent,SSI20210668,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,401,SSI19202489,Agst Ref,,Shivdeep Cycle Track,38052.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,401,SSI19202490,Agst Ref,,Shivdeep Cycle Track,10452.0,NA,Shivdeep Cycle Track,Receipt,NO
+20200701,Other,401,NA,NA,,Standard Chartered Bank,NA,-48504.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,401,NA,NA,,Shivdeep Cycle Track,NA,0,Shivdeep Cycle Track,Receipt,NO
+20200701,Child,SSI20210669,SSI20210664,New Ref,,V M Cycling Boutique,-350280.0,NA,V M Cycling Boutique,Receipt,NO
+20200701,Parent,SSI20210669,NA,NA,,V M Cycling Boutique,NA,0,V M Cycling Boutique,Receipt,NO
+20200701,Child,SSI20210670,SSI20210668,New Ref,,V M Cycling Boutique,-9218.0,NA,V M Cycling Boutique,Receipt,NO
+20200701,Parent,SSI20210670,NA,NA,,V M Cycling Boutique,NA,0,V M Cycling Boutique,Receipt,NO
+20200701,Child,SSI20210671,SSI20210670,New Ref,,V M Cycling Boutique,-13650.0,NA,V M Cycling Boutique,Receipt,NO
+20200701,Parent,SSI20210671,NA,NA,,V M Cycling Boutique,NA,0,V M Cycling Boutique,Receipt,NO
+20200701,Child,SSI20210672,SSI20210672,New Ref,,CYCLOPEDIA,-274932.0,NA,CYCLOPEDIA,Receipt,NO
+20200701,Parent,SSI20210672,NA,NA,,CYCLOPEDIA,NA,0,CYCLOPEDIA,Receipt,NO
+20200701,Child,SSI20210673,SSI20210673,New Ref,,DEEPAK CYCLE STORES,-153720.0,NA,DEEPAK CYCLE STORES,Receipt,NO
+20200701,Parent,SSI20210673,NA,NA,,DEEPAK CYCLE STORES,NA,0,DEEPAK CYCLE STORES,Receipt,NO
+20200701,Child,SSI20210674,SSI20210674,New Ref,,DEEPAK CYCLE STORES,-28585.0,NA,DEEPAK CYCLE STORES,Receipt,NO
+20200701,Parent,SSI20210674,NA,NA,,DEEPAK CYCLE STORES,NA,0,DEEPAK CYCLE STORES,Receipt,NO
+20200701,Child,SSI20210679,SSI20210675,New Ref,,Krishna Cycle Stores,-106203.0,NA,Krishna Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210679,NA,NA,,Krishna Cycle Stores,NA,0,Krishna Cycle Stores,Receipt,NO
+20200701,Child,SSI20210680,SSI20210678,New Ref,,Krishna Cycle Stores,-109912.0,NA,Krishna Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210680,NA,NA,,Krishna Cycle Stores,NA,0,Krishna Cycle Stores,Receipt,NO
+20200701,Child,SSI20210681,SSI20210680,New Ref,,Krishna Cycle Stores,-72657.0,NA,Krishna Cycle Stores,Receipt,NO
+20200701,Parent,SSI20210681,NA,NA,,Krishna Cycle Stores,NA,0,Krishna Cycle Stores,Receipt,NO
+20200701,Child,402,SSI20210415,Agst Ref,,Krishna Cycle Stores,185352.81,NA,Krishna Cycle Stores,Receipt,NO
+20200701,Child,402,SSI20210416,Agst Ref,,Krishna Cycle Stores,14647.19,NA,Krishna Cycle Stores,Receipt,NO
+20200701,Other,402,NA,NA,,Standard Chartered Bank,NA,-200000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,402,NA,NA,,Krishna Cycle Stores,NA,0,Krishna Cycle Stores,Receipt,NO
+20200701,Child,SSI20210682,SSI20210682,New Ref,,MVS Enterprises,-63269.0,NA,MVS Enterprises,Receipt,NO
+20200701,Parent,SSI20210682,NA,NA,,MVS Enterprises,NA,0,MVS Enterprises,Receipt,NO
+20200701,Child,SSI20210683,SSI20210683,New Ref,,MVS Enterprises,-5751.0,NA,MVS Enterprises,Receipt,NO
+20200701,Parent,SSI20210683,NA,NA,,MVS Enterprises,NA,0,MVS Enterprises,Receipt,NO
+20200701,Child,SSI20210684,SSI20210684,New Ref,,Pro Cycle & Sports India Pvt. Ltd,-103908.0,NA,Pro Cycle & Sports India Pvt. Ltd,Receipt,NO
+20200701,Parent,SSI20210684,NA,NA,,Pro Cycle & Sports India Pvt. Ltd,NA,0,Pro Cycle & Sports India Pvt. Ltd,Receipt,NO
+20200701,Child,SSI20210685,SSI20210685,New Ref,,Pro Cycle & Sports India Pvt. Ltd,-45192.0,NA,Pro Cycle & Sports India Pvt. Ltd,Receipt,NO
+20200701,Parent,SSI20210685,NA,NA,,Pro Cycle & Sports India Pvt. Ltd,NA,0,Pro Cycle & Sports India Pvt. Ltd,Receipt,NO
+20200701,Child,SSI20210686,SSI20210686,New Ref,,R R International (RR Cycle Junction),-889862.0,NA,R R International (RR Cycle Junction),Receipt,NO
+20200701,Parent,SSI20210686,NA,NA,,R R International (RR Cycle Junction),NA,0,R R International (RR Cycle Junction),Receipt,NO
+20200701,Child,SSI20210687,SSI20210687,New Ref,,R R International (RR Cycle Junction),-114744.0,NA,R R International (RR Cycle Junction),Receipt,NO
+20200701,Parent,SSI20210687,NA,NA,,R R International (RR Cycle Junction),NA,0,R R International (RR Cycle Junction),Receipt,NO
+20200701,Child,SSI20210688,SSI20210688,New Ref,,R R International (RR Cycle Junction),-356739.0,NA,R R International (RR Cycle Junction),Receipt,NO
+20200701,Parent,SSI20210688,NA,NA,,R R International (RR Cycle Junction),NA,0,R R International (RR Cycle Junction),Receipt,NO
+20200701,Child,SSI20210689,SSI20210689,New Ref,,R R International (RR Cycle Junction),-78400.0,NA,R R International (RR Cycle Junction),Receipt,NO
+20200701,Parent,SSI20210689,NA,NA,,R R International (RR Cycle Junction),NA,0,R R International (RR Cycle Junction),Receipt,NO
+20200701,Child,SSI20210690,SSI20210685,New Ref,,Ponvelan Cycle Mart,-122640.0,NA,Ponvelan Cycle Mart,Receipt,NO
+20200701,Parent,SSI20210690,NA,NA,,Ponvelan Cycle Mart,NA,0,Ponvelan Cycle Mart,Receipt,NO
+20200701,Child,SSI20210691,SSI20210687,New Ref,,Ponvelan Cycle Mart,-40295.0,NA,Ponvelan Cycle Mart,Receipt,NO
+20200701,Parent,SSI20210691,NA,NA,,Ponvelan Cycle Mart,NA,0,Ponvelan Cycle Mart,Receipt,NO
+20200701,Child,SSI20210692,SSI20210688,New Ref,,Ponvelan Cycle Mart,-6599.0,NA,Ponvelan Cycle Mart,Receipt,NO
+20200701,Parent,SSI20210692,NA,NA,,Ponvelan Cycle Mart,NA,0,Ponvelan Cycle Mart,Receipt,NO
+20200701,Child,SSI20210693,SSI20210689,New Ref,,Ponvelan Cycle Mart,-6767.0,NA,Ponvelan Cycle Mart,Receipt,NO
+20200701,Parent,SSI20210693,NA,NA,,Ponvelan Cycle Mart,NA,0,Ponvelan Cycle Mart,Receipt,NO
+20200701,Child,SSI20210694,SSI20210691,New Ref,,Sai Balaji Cycle Traders,-25536.0,NA,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Parent,SSI20210694,NA,NA,,Sai Balaji Cycle Traders,NA,0,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Child,SSI20210695,SSI20210692,New Ref,,Sai Balaji Cycle Traders,-21336.0,NA,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Parent,SSI20210695,NA,NA,,Sai Balaji Cycle Traders,NA,0,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Child,SSI20210696,SSI20210694,New Ref,,Sai Balaji Cycle Traders,-48720.0,NA,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Parent,SSI20210696,NA,NA,,Sai Balaji Cycle Traders,NA,0,Sai Balaji Cycle Traders,Receipt,NO
+20200701,Child,SSI20210697,SSI20210697,New Ref,,Shah Bikes,-144491.0,NA,Shah Bikes,Receipt,NO
+20200701,Parent,SSI20210697,NA,NA,,Shah Bikes,NA,0,Shah Bikes,Receipt,NO
+20200701,Child,SSI20210698,SSI20210698,New Ref,,Shah Bikes,-80038.0,NA,Shah Bikes,Receipt,NO
+20200701,Parent,SSI20210698,NA,NA,,Shah Bikes,NA,0,Shah Bikes,Receipt,NO
+20200701,Child,SSI20210699,SSI20210699,New Ref,,Shah Bikes,-172116.0,NA,Shah Bikes,Receipt,NO
+20200701,Parent,SSI20210699,NA,NA,,Shah Bikes,NA,0,Shah Bikes,Receipt,NO
+20200701,Child,SSI20210704,SSI20210703,New Ref,,TAJ CYCLE COMPANY,-12975.0,NA,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Parent,SSI20210704,NA,NA,,TAJ CYCLE COMPANY,NA,0,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Child,SSI20210705,SSI20210703,Agst Ref,,TAJ CYCLE COMPANY,-18422.0,NA,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Parent,SSI20210705,NA,NA,,TAJ CYCLE COMPANY,NA,0,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Child,SSI20210706,SSI20210703,Agst Ref,,TAJ CYCLE COMPANY,-78400.0,NA,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Parent,SSI20210706,NA,NA,,TAJ CYCLE COMPANY,NA,0,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Child,SSI20210707,SSI20210703,Agst Ref,,TAJ CYCLE COMPANY,-43384.0,NA,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Parent,SSI20210707,NA,NA,,TAJ CYCLE COMPANY,NA,0,TAJ CYCLE COMPANY,Receipt,NO
+20200701,Child,SSI20210708,SSI20210708,New Ref,,Pedallers Point - Gachibowli,-205565.0,NA,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Parent,SSI20210708,NA,NA,,Pedallers Point - Gachibowli,NA,0,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Child,SSI20210710,SSI20210710,New Ref,,Pedallers Point - Gachibowli,-63504.0,NA,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Parent,SSI20210710,NA,NA,,Pedallers Point - Gachibowli,NA,0,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Child,403,SSI19202483,Agst Ref,,Pedallers Point - Gachibowli,104612.56,NA,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Child,403,SSI19202500,Agst Ref,,Pedallers Point - Gachibowli,34267.44,NA,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Other,403,NA,NA,,Standard Chartered Bank,NA,-138880.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,403,NA,NA,,Pedallers Point - Gachibowli,NA,0,Pedallers Point - Gachibowli,Receipt,NO
+20200701,Other,06.20,NA,NA,NA,ICICI Bank,NA,1150602.00,ICICI Bank,Receipt,NO
+20200701,Other,06.20,NA,NA,NA,Salary Payable,NA,0,Salary Payable,Receipt,NO
+20200701,Child,404,SSI19203207,Agst Ref,,Vaibhav Cycle Stores,0.01,NA,Vaibhav Cycle Stores,Receipt,NO
+20200701,Child,404,SSI20210352,Agst Ref,,Vaibhav Cycle Stores,38999.99,NA,Vaibhav Cycle Stores,Receipt,NO
+20200701,Other,404,NA,NA,,Standard Chartered Bank,NA,-39000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,404,NA,NA,,Vaibhav Cycle Stores,NA,0,Vaibhav Cycle Stores,Receipt,NO
+20200701,Child,405,SSI20210181,Agst Ref,,Durga Cycles,96880.0,NA,Durga Cycles,Receipt,NO
+20200701,Other,405,NA,NA,,Standard Chartered Bank,NA,-96880.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,405,NA,NA,,Durga Cycles,NA,0,Durga Cycles,Receipt,NO
+20200701,Child,406,SSI19200832,Agst Ref,,Verdant Outdoor Sports World Pvt Ltd,25000.0,NA,Verdant Outdoor Sports World Pvt Ltd,Receipt,NO
+20200701,Other,406,NA,NA,,Standard Chartered Bank,NA,-25000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,406,NA,NA,,Verdant Outdoor Sports World Pvt Ltd,NA,0,Verdant Outdoor Sports World Pvt Ltd,Receipt,NO
+20200701,Child,407,SSI20210172,Agst Ref,,Freewheelers Bike Zone,50469.0,NA,Freewheelers Bike Zone,Receipt,NO
+20200701,Child,407,SSI20210173,Agst Ref,,Freewheelers Bike Zone,19531.0,NA,Freewheelers Bike Zone,Receipt,NO
+20200701,Other,407,NA,NA,,Standard Chartered Bank,NA,-70000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,407,NA,NA,,Freewheelers Bike Zone,NA,0,Freewheelers Bike Zone,Receipt,NO
+20200701,Child,408,SSI19201311,Agst Ref,,BIKESHARK -THE URBAN CYCLE STORE,3216.72,NA,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Child,408,SSI19201312,Agst Ref,,BIKESHARK -THE URBAN CYCLE STORE,4077.0,NA,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Child,408,SSI19201409,Agst Ref,,BIKESHARK -THE URBAN CYCLE STORE,13722.0,NA,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Child,408,SSI19201467,Agst Ref,,BIKESHARK -THE URBAN CYCLE STORE,37336.0,NA,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Child,408,SSI19201496,Agst Ref,,BIKESHARK -THE URBAN CYCLE STORE,41648.28,NA,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Other,408,NA,NA,,Standard Chartered Bank,NA,-100000.00,Standard Chartered Bank,Receipt,NO
+20200701,Other,408,NA,NA,,BIKESHARK -THE URBAN CYCLE STORE,NA,0,BIKESHARK -THE URBAN CYCLE STORE,Receipt,NO
+20200701,Child,168,GO/20/06/2939,New Ref,,GREYTIP SOFTWARE PVT.LTD.,2822.0,NA,GREYTIP SOFTWARE PVT.LTD.,Receipt,NO
+20200701,Parent,168,NA,NA,,GREYTIP SOFTWARE PVT.LTD.,NA,0,GREYTIP SOFTWARE PVT.LTD.,Receipt,NO
+20200701,Child,169,518000060598,New Ref,,Reliance Jio Infocomm Ltd,6409.49,NA,Reliance Jio Infocomm Ltd,Receipt,NO
+20200701,Parent,169,NA,NA,,Reliance Jio Infocomm Ltd,NA,6409.49,Reliance Jio Infocomm Ltd,Receipt,YES
+20200701,Child,ESSI2021055,ESSI2021055,New Ref,,E-Team Driven Motosports LLP,-10967.0,NA,E-Team Driven Motosports LLP,Receipt,NO
+20200701,Parent,ESSI2021055,NA,NA,,E-Team Driven Motosports LLP,NA,0,E-Team Driven Motosports LLP,Receipt,NO
+20200701,Child,ESSI2021056,ESSI2021056,New Ref,,E-NOREN CYCLES N OUTDOOR SPORTS,-3439.0,NA,E-NOREN CYCLES N OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,ESSI2021056,NA,NA,,E-NOREN CYCLES N OUTDOOR SPORTS,NA,0,E-NOREN CYCLES N OUTDOOR SPORTS,Receipt,NO
+20200701,Parent,ESSI2021057,NA,NA,NA,E-Shah Bikes,NA,0,E-Shah Bikes,Receipt,NO
+20200701,Child,170,BTS/T1594/20-21,New Ref,,BTS TELECOM PVT LTD,236.0,NA,BTS TELECOM PVT LTD,Receipt,NO
+20200701,Parent,170,NA,NA,,BTS TELECOM PVT LTD,NA,236.0,BTS TELECOM PVT LTD,Receipt,YES
+20200701,Child,171,BTS/1504/20-21,New Ref,,BTS TELECOM PVT LTD,1770.0,NA,BTS TELECOM PVT LTD,Receipt,NO
+20200701,Parent,171,NA,NA,,BTS TELECOM PVT LTD,NA,1770.0,BTS TELECOM PVT LTD,Receipt,YES
+20200701,Child,173,185050781,New Ref,,Torrent Power Ltd,2760.0,NA,Torrent Power Ltd,Receipt,NO
+20200701,Parent,173,NA,NA,,Torrent Power Ltd,NA,2760.0,Torrent Power Ltd,Receipt,YES
+20200701,Child,174,185050781,Agst Ref,,Torrent Power Ltd,-2760.0,NA,Torrent Power Ltd,Receipt,NO
+20200701,Child,174,185050781,New Ref,,Company Credit Card ICICI JS,2785.94,NA,Company Credit Card ICICI JS,Receipt,NO
+20200701,Parent,174,NA,NA,,Torrent Power Ltd,NA,2785.94,Torrent Power Ltd,Receipt,YES
+20200701,Child,175,5ed4614add8cd10bdd1b2a7e,New Ref,,Mongo DB Cloud,11486.29,NA,Mongo DB Cloud,Receipt,NO
+20200701,Parent,175,NA,NA,,Mongo DB Cloud,NA,11486.29,Mongo DB Cloud,Receipt,YES
