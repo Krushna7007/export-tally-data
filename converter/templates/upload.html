@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML File Upload</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<body>
+    <h1>XML File Upload</h1>
+
+    <form enctype="multipart/form-data" id="xmlForm">
+        <label for="xmlFile">Select XML File:</label>
+        <input type="file" id="xmlFile" name="xml_file" accept=".xml" required>
+        <br>
+
+        <button type="button" onclick="submitForm()">Upload and Convert</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        function submitForm() {
+            var formData = new FormData($('#xmlForm')[0]);
+
+            $.ajax({
+                url: '/api/convert-xml-to-xlsx/',
+                type: 'POST',
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function (data) {
+
+                   
+                   
+                },
+                error: function (xhr, textStatus, errorThrown) {
+                    $('#result').html('<p>Error: ' + textStatus + '</p>');
+                }
+            });
+        }
+    </script>
+</body>
+</html>
